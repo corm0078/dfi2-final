@@ -1,0 +1,16 @@
+/* Team*/
+
+Designer & Developer: Martine Cormier
+Twitter: @Martine-cormier
+Location: Ottawa, Canada
+
+
+/*Thanks*/
+
+Thanks to the best coding teacher,Tiffany Tse! And thanks to the students who will be grading this! yes I might be trying to suck up ...or i tried! 
+
+/* Site */
+Last update: 2013/12/15
+Standards: html5, css3
+Components: Modernizr, Jquery,
+Software: Adobe
